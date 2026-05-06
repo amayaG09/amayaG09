@@ -1,24 +1,32 @@
-# Hola, mi nombre es Gastón Amaya 👋
-### Freelance fullstack iOS & Android engineer
+# Hola, soy Gastón Amaya 👋
+### Estudiante Técnico (6to Año) | Full Stack Developer | Scrum Master
 
-imagen
+Actualmente curso el último año de mi formación técnica en computación en Buenos Aires. Mi enfoque está en el desarrollo de software escalable, la gestión de proyectos ágiles y la creación de soluciones técnicas integrales.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+## 🚀 Sobre mí
 
-Soy ingeniero de software profesional desde 2010.
+- 🎓 **Estudiante de 6to año** en escuela técnica especializada en computación.
+- 💻 Desarrollador con foco en el ecosistema **Full Stack** (Java/Spring Boot & React).
+- 🛡️ Desarrollando actualmente un sistema de seguridad inteligente con IA para el sector gastronómico.
+- 👥 Experiencia coordinando equipos bajo el marco de trabajo **Scrum**.
 
-He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
+---
 
-Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+## 🛠️ Stack Tecnológico
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
-> 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
+| Área | Tecnologías |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, APIs REST |
+| **Herramientas** | Jira, Git/GitHub, Netlify |
+
+---
+
+## 📊 Proyectos Destacados
+
+- **Softlution & Co:** Sistema de gestión de contenido con gestión de roles y diseño responsivo.
+- **AI Security Cam:** Proyecto integral de monitoreo de productividad mediante IA (Finalización estimada: Nov 2026).
+
+---
 
 ## Encuéntrame en:
 
