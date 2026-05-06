@@ -22,7 +22,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gastonamaya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gastón_Amaya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gastonamaya/)
 
 
 ## Contacto:
