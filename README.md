@@ -28,8 +28,8 @@ Actualmente curso el último año de mi formación técnica en computación en B
 
 ## 📊 Proyectos Destacados
 
-- ** 📂 Softlution & Co:** Sistema de gestión de contenido con gestión de roles y diseño responsivo.
-- ** 🤖 AI Security Cam:** Proyecto integral de monitoreo de productividad mediante IA (Finalización estimada: Nov 2026).
+- **📂 Softlution & Co:** Sistema de gestión de contenido con gestión de roles y diseño responsivo.
+- **🤖 AI Security Cam:** Proyecto integral de monitoreo de productividad mediante IA (Finalización estimada: Nov 2026).
 
 ---
 
