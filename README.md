@@ -1,30 +1,35 @@
 # Hola, soy Gastón Amaya 👋
-### Estudiante Técnico (6to Año) | Full Stack Developer | Scrum Master
+### Estudiante de Tecnicatura en Computación (6to año) |
 
-Actualmente curso el último año de mi formación técnica en computación en Buenos Aires. Mi enfoque está en el desarrollo de software escalable, la gestión de proyectos ágiles y la creación de soluciones técnicas integrales.
+Actualmente curso el último año de mi formación técnica en computación en Buenos Aires. Mi enfoque está en el en el análisis, diseño y desarrollo de sistemas bajo metodologías ágiles y estándares profesionales.
 
 ## 🚀 Sobre mí
 
 - 🎓 **Estudiante de 6to año** en escuela técnica especializada en computación.
 - 💻 Desarrollador con foco en el ecosistema **Full Stack** (Java/Spring Boot & React).
 - 🛡️ Desarrollando actualmente un sistema de seguridad inteligente con IA para el sector gastronómico.
+- ⚙️ **Metodología:** Gestión de proyectos mediante Scrum y modelado lógico con UML[cite: 1].
 - 👥 Experiencia coordinando equipos bajo el marco de trabajo **Scrum**.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend** | Java, Spring Boot, APIs REST |
-| **Herramientas** | Jira, Git/GitHub, Netlify |
+### Desarrollo de Software
+- **Lenguajes:** Java, Python[cite: 1].
+- **Backend:** Spring Boot, creación de APIs REST[cite: 1].
+- **Bases de Datos:** MySQL y diseño de modelos relacionales[cite: 1].
+- **Herramientas:** Git, GitHub, Postman, Figma (UX/UI)[cite: 1].
+
+### Redes
+- **Redes:** Diseño físico/lógico y simulación en Packet Tracer[cite: 1].
 
 ---
 
 ## 📊 Proyectos Destacados
 
-- **Softlution & Co:** Sistema de gestión de contenido con gestión de roles y diseño responsivo.
-- **AI Security Cam:** Proyecto integral de monitoreo de productividad mediante IA (Finalización estimada: Nov 2026).
+- ** 📂 Softlution & Co:** Sistema de gestión de contenido con gestión de roles y diseño responsivo.
+- ** 🤖 AI Security Cam:** Proyecto integral de monitoreo de productividad mediante IA (Finalización estimada: Nov 2026).
 
 ---
 
