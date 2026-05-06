@@ -3,7 +3,7 @@
 
 Actualmente curso el último año de mi formación técnica en computación en Buenos Aires. Mi enfoque está en el en el análisis, diseño y desarrollo de sistemas bajo metodologías ágiles y estándares profesionales.
 
-## 🚀 Sobre mí
+## Sobre mí
 
 - 🎓 **Estudiante de 6to año** en escuela técnica especializada en computación.
 - 💻 Desarrollador con foco en el ecosistema **Full Stack** (Java/Spring Boot & React).
@@ -13,7 +13,7 @@ Actualmente curso el último año de mi formación técnica en computación en B
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Desarrollo de Software
 - **Lenguajes:** Java, Python.
@@ -26,7 +26,7 @@ Actualmente curso el último año de mi formación técnica en computación en B
 
 ---
 
-## 📊 Proyectos Destacados
+## Proyectos Destacados
 
 - **📂 Softlution & Co:** Sistema de gestión de contenido con gestión de roles y diseño responsivo.
 - **🤖 AI Security Cam:** Proyecto integral de monitoreo de productividad mediante IA (Finalización estimada: Nov 2026).
