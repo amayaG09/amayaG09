@@ -8,7 +8,7 @@ Actualmente curso el último año de mi formación técnica en computación en B
 - 🎓 **Estudiante de 6to año** en escuela técnica especializada en computación.
 - 💻 Desarrollador con foco en el ecosistema **Full Stack** (Java/Spring Boot & React).
 - 🛡️ Desarrollando actualmente un sistema de seguridad inteligente con IA para el sector gastronómico.
-- ⚙️ **Metodología:** Gestión de proyectos mediante Scrum y modelado lógico con UML[cite: 1].
+- ⚙️ **Metodología:** Gestión de proyectos mediante Scrum y modelado lógico con UML.
 - 👥 Experiencia coordinando equipos bajo el marco de trabajo **Scrum**.
 
 ---
@@ -16,13 +16,13 @@ Actualmente curso el último año de mi formación técnica en computación en B
 ## 🛠️ Stack Tecnológico
 
 ### Desarrollo de Software
-- **Lenguajes:** Java, Python[cite: 1].
-- **Backend:** Spring Boot, creación de APIs REST[cite: 1].
-- **Bases de Datos:** MySQL y diseño de modelos relacionales[cite: 1].
-- **Herramientas:** Git, GitHub, Postman, Figma (UX/UI)[cite: 1].
+- **Lenguajes:** Java, Python.
+- **Backend:** Spring Boot, creación de APIs REST.
+- **Bases de Datos:** MySQL y diseño de modelos relacionales.
+- **Herramientas:** Git, GitHub, Postman, Figma (UX/UI).
 
 ### Redes
-- **Redes:** Diseño físico/lógico y simulación en Packet Tracer[cite: 1].
+- **Redes:** Diseño físico/lógico y simulación en Packet Tracer.
 
 ---
 
